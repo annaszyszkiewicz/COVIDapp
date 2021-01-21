@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lista13ZPO2020</string>
+    <string name="btnAdd">ADD DATA FOR COUNTRY</string>
+    <string name="btnShow">SHOW EXISTING DATA</string>
+    <string name="btnStats">GET STATS</string>
+    <string name="title">COVID API</string>
+    <string name="editTxtCountry">Enter your country</string>
+    <string name="btnAddData">ADD DATA</string>
+    <string name="titleStats">COVID STATS</string>
+    <string name="txtSum">SUM OF CASES</string>
+    <string name="txtHighestCuredCountry">HIGHEST CURED PERCENT IN</string>
+    <string name="txtTests">TESTS PER ONE MILLION (DESCENDING)</string>
+</resources>
